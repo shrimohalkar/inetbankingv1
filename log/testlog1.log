@@ -432,3 +432,11 @@
 2021-05-11 18:40:52,243 [main] INFO ebanking - ***  Enterd Password  ***
 2021-05-11 18:40:55,001 [main] INFO ebanking - ***  Login test passed  ***
 2021-05-11 18:40:56,506 [main] INFO ebanking - ***  Clicked Logout  ***
+2023-09-03 11:43:15,236 [main] INFO ebanking - ***  URL is Opened  ***
+2023-09-03 11:43:16,073 [main] INFO ebanking - ***  Entered Username  ***
+2023-09-03 11:43:16,211 [main] INFO ebanking - ***  Enterd Password  ***
+2023-09-03 11:46:58,337 [main] INFO ebanking - ***  URL is Opened  ***
+2023-09-03 11:46:58,652 [main] INFO ebanking - ***  Entered Username  ***
+2023-09-03 11:46:58,745 [main] INFO ebanking - ***  Enterd Password  ***
+2023-09-03 11:47:00,061 [main] INFO ebanking - ***  Login test passed  ***
+2023-09-03 11:47:00,841 [main] INFO ebanking - ***  Clicked Logout  ***
