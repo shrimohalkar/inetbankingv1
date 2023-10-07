@@ -4,7 +4,6 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.How;
 import org.openqa.selenium.support.PageFactory;
 
 public class AddNewCustomerPage {
@@ -17,57 +16,57 @@ public class AddNewCustomerPage {
 		PageFactory.initElements(rdriver, this);
 	}
 	
-	@FindBy(how = How.XPATH, using="//a[contains(text(),'New Customer')]")
+	@FindBy(xpath="//a[contains(text(),'New Customer')]")
 	@CacheLookup
 	WebElement lnkaddnewcustomer;
 	
-	@FindBy(how = How.NAME, using="name")
+	@FindBy(name="name")
 	@CacheLookup
 	WebElement custname;
 	
 	
-	@FindBy(how = How.NAME, using="rad1")
+	@FindBy(name="rad1")
 	@CacheLookup
 	WebElement rdgender;
 	
 	
-	@FindBy(how = How.NAME, using="dob")
+	@FindBy(name="dob")
 	@CacheLookup
 	WebElement txtdob;
 	
 	
-	@FindBy(how = How.NAME, using="addr")
+	@FindBy(name="addr")
 	@CacheLookup
 	WebElement txtaddress;
 	
-	@FindBy(how = How.NAME, using="city")
+	@FindBy(name="city")
 	@CacheLookup
 	WebElement txtcity;
 	
-	@FindBy(how = How.NAME, using="state")
+	@FindBy(name="state")
 	@CacheLookup
 	WebElement txtstate;
 	
 	
-	@FindBy(how = How.NAME, using="pinno")
+	@FindBy(name="pinno")
 	@CacheLookup
 	WebElement txtpinno;
 	
 	
-	@FindBy(how = How.NAME, using="telephoneno")
+	@FindBy(name="telephoneno")
 	@CacheLookup
 	WebElement txttelephoneno;
 	
 	
-	@FindBy(how = How.NAME, using="emailid")
+	@FindBy(name="emailid")
 	@CacheLookup
 	WebElement txtemailid; 
 	
-	@FindBy(how = How.NAME, using="password")
+	@FindBy(name="password")
 	@CacheLookup
 	WebElement txtpassword; 
 	
-	@FindBy(how = How.NAME, using="sub")
+	@FindBy(name="sub")
 	@CacheLookup
 	WebElement txtsubmit; 
 	
