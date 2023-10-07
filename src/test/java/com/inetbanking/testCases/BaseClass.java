@@ -49,7 +49,7 @@ public class BaseClass {
 		{
 			System.setProperty("webdriver.chrome.driver",readconfig.getChromePath());
 			//WebDriverManager.chromedriver().setup(); 
-			// added remote brnch corrected changes
+
 			driver=new ChromeDriver(options);
 		}
 		else if(br.equals("firefox"))
