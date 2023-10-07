@@ -40,8 +40,9 @@ public class TC_LoginPage_001 extends BaseClass
 		else
 		{
 			caputreScreen(driver , "loginTest");
-			Assert.assertTrue(false);
 			logger.info("***  Login test failed  ***");
+			Assert.assertTrue(false);
+			
 		}
 		
 	}
