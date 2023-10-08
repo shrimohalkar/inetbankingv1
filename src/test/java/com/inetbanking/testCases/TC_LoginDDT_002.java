@@ -28,9 +28,14 @@ public class TC_LoginDDT_002 extends BaseClass {
 		
 		lp.clickLogin();
 		
+		Thread.sleep(5);
+		
+		System.out.println("ram");
+		
 		if(isAlertPresent()==true)
 		{
 			caputreScreen(driver , "TC_LoginDDT_002");
+			System.out.println(driver.switchTo().alert().getText());
 			driver.switchTo().alert().accept();  // closing alert
 			driver.switchTo().defaultContent();
 			Assert.assertTrue(false);

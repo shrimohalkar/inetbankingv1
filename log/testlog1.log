@@ -467,3 +467,122 @@
 2023-10-07 16:15:15,336 [main] INFO ebanking - ***  Enterd Password  ***
 2023-10-07 16:15:16,666 [main] INFO ebanking - ***  Login test passed  ***
 2023-10-07 16:15:17,650 [main] INFO ebanking - ***  Clicked Logout  ***
+2023-10-08 15:18:19,400 [main] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 15:18:19,788 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:18:20,074 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:18:21,536 [main] INFO ebanking - ***  Login test passed  ***
+2023-10-08 15:18:22,256 [main] INFO ebanking - ***  Clicked Logout  ***
+2023-10-08 15:19:27,382 [main] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 15:19:29,012 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:19:29,120 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:19:30,961 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:19:31,071 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:19:32,722 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:19:32,792 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:19:34,395 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:19:34,463 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:19:36,078 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:19:36,147 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:31:38,156 [main] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 15:31:39,569 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:31:39,679 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:31:41,841 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:31:42,110 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:31:43,665 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:31:43,926 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:31:45,757 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:31:45,958 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:31:48,618 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:31:48,757 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:33:55,980 [main] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 15:33:57,470 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:33:57,595 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:33:59,419 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:33:59,722 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:34:01,490 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:34:01,585 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:34:03,164 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:34:03,463 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:34:05,071 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:34:05,346 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:35:34,455 [main] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 15:35:34,826 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:35:34,930 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:35:36,277 [main] INFO ebanking - ***  Login test passed  ***
+2023-10-08 15:35:37,093 [main] INFO ebanking - ***  Clicked Logout  ***
+2023-10-08 15:38:48,709 [main] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 15:38:50,631 [main] INFO ebanking - ***  Logged in succesfully  ***
+2023-10-08 15:38:55,676 [main] INFO ebanking - ***  adding new customer  ***
+2023-10-08 15:39:05,881 [main] INFO ebanking - ***  Switched to iframe  ***
+2023-10-08 15:40:16,374 [main] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 15:40:18,786 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:40:18,945 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:40:20,744 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:40:20,857 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:40:22,558 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:40:22,632 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:40:24,288 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:40:24,373 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:40:26,027 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:40:26,106 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:46:17,420 [main] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 15:46:19,554 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:46:19,655 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:46:21,790 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:46:21,879 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:46:23,319 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:46:23,393 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:46:24,824 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:46:24,893 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:46:26,375 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:46:26,444 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:47:43,349 [main] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 15:47:44,767 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:47:44,864 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:47:46,799 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:47:46,907 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:47:48,495 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:47:48,722 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:47:50,241 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:47:50,524 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:47:52,121 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:47:52,241 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:54:52,050 [main] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 15:54:53,773 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:54:53,876 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 15:55:58,697 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 15:55:58,970 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 16:01:28,448 [main] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 16:01:29,931 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 16:01:30,042 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 16:01:31,798 [main] INFO ebanking - ***  Entered Username  ***
+2023-10-08 16:01:31,975 [main] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 16:07:44,093 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 16:07:44,644 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Entered Username  ***
+2023-10-08 16:07:45,814 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 16:07:46,969 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Login test passed  ***
+2023-10-08 16:07:47,731 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Clicked Logout  ***
+2023-10-08 16:07:57,148 [TestNG-test=BankingApp Test-2] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 16:09:23,704 [TestNG-test=BankingApp Test-2] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 16:09:24,700 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 16:09:25,197 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Entered Username  ***
+2023-10-08 16:09:25,813 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 16:09:26,322 [TestNG-test=BankingApp Test-2] INFO ebanking - ***  Logged in succesfully  ***
+2023-10-08 16:09:31,344 [TestNG-test=BankingApp Test-2] INFO ebanking - ***  adding new customer  ***
+2023-10-08 19:15:36,464 [TestNG-test=BankingApp Test-2] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 19:15:38,268 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 19:15:38,984 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Entered Username  ***
+2023-10-08 19:15:39,160 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 19:18:17,293 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 19:18:17,649 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Entered Username  ***
+2023-10-08 19:18:17,738 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Enterd Password  ***
+2023-10-08 19:18:18,975 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Login test passed  ***
+2023-10-08 19:18:19,749 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Clicked Logout  ***
+2023-10-08 19:20:32,001 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  URL is Opened  ***
+2023-10-08 19:20:33,789 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Logged in succesfully  ***
+2023-10-08 19:20:38,823 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  adding new customer  ***
+2023-10-08 19:20:49,078 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Switched to iframe  ***
+2023-10-08 19:20:53,727 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Entering customer details  ***
+2023-10-08 19:20:55,323 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  submited form  ***
+2023-10-08 19:21:01,356 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  creted new customer  ***
+2023-10-08 19:21:01,356 [TestNG-test=BankingApp Test-1] INFO ebanking - ***  Test passed  ***

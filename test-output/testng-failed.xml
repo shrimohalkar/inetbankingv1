@@ -4,9 +4,16 @@
   <listeners>
     <listener class-name="com.inetbanking.utilities.Reporting"/>
   </listeners>
-  <test thread-count="5" name="BankingApp Test(failed)">
+  <test thread-count="5" parallel="methods" name="BankingApp Test(failed)">
     <parameter name="browser" value="chrome"/>
     <classes>
+      <class name="com.inetbanking.testCases.TC_AddCustomer_003">
+        <methods>
+          <include name="setup"/>
+          <include name="AddNewCustomer"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.inetbanking.testCases.TC_AddCustomer_003 -->
       <class name="com.inetbanking.testCases.TC_LoginPage_001">
         <methods>
           <include name="setup"/>
