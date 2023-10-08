@@ -33,7 +33,7 @@ public class TC_AddCustomer_003 extends BaseClass
 		
 		driver.switchTo().frame("google_ads_iframe_/24132379/INTERSTITIAL_DemoGuru99_0");
 		logger.info("***  Switched to iframe  ***");
-		//driver.switchTo().frame("ad_iframe"); // ad_iframe
+		driver.switchTo().frame("ad_iframe"); // ad_iframe
 		
 		driver.findElement(By.id("dismiss-button")).click();
 		driver.switchTo().defaultContent();
