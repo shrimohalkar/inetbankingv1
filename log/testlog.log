@@ -586,3 +586,19 @@
 2023-10-08 19:20:55,323 - ebanking -INFO - ***  submited form  ***
 2023-10-08 19:21:01,356 - ebanking -INFO - ***  creted new customer  ***
 2023-10-08 19:21:01,356 - ebanking -INFO - ***  Test passed  ***
+2023-10-08 21:42:50,368 - ebanking -INFO - ***  URL is Opened  ***
+2023-10-08 21:42:52,285 - ebanking -INFO - ***  Logged in succesfully  ***
+2023-10-08 21:42:57,325 - ebanking -INFO - ***  adding new customer  ***
+2023-10-08 21:43:07,603 - ebanking -INFO - ***  Switched to iframe  ***
+2023-10-08 21:43:12,300 - ebanking -INFO - ***  Entering customer details  ***
+2023-10-08 21:43:14,012 - ebanking -INFO - ***  submited form  ***
+2023-10-08 21:43:20,093 - ebanking -INFO - ***  creted new customer  ***
+2023-10-08 21:43:20,093 - ebanking -INFO - ***  Test passed  ***
+2023-10-08 21:49:40,497 - ebanking -INFO - ***  URL is Opened  ***
+2023-10-08 21:49:42,403 - ebanking -INFO - ***  Logged in succesfully  ***
+2023-10-08 21:49:47,436 - ebanking -INFO - ***  adding new customer  ***
+2023-10-08 21:49:57,795 - ebanking -INFO - ***  Switched to iframe  ***
+2023-10-08 21:50:02,635 - ebanking -INFO - ***  Entering customer details  ***
+2023-10-08 21:50:04,495 - ebanking -INFO - ***  submited form  ***
+2023-10-08 21:50:10,519 - ebanking -INFO - ***  creted new customer  ***
+2023-10-08 21:50:10,519 - ebanking -INFO - ***  Test passed  ***
